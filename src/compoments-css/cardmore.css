@@ -1,0 +1,79 @@
+/* Add these styles to your CSS file */
+.description-section {
+    
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    color: white;
+    background-color: transparent;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .description-section h5 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+  }
+  .description-section h4 {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+  }
+  .description-section p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: white;
+    text-align: left;
+    
+  }
+  .xe{
+    padding: 0;
+    margin: 0;
+  }
+  ul{
+    font-weight: 28px;  
+    
+  }
+  .countdown-timer {
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    color: red; /* Choose your preferred color */
+  }
+  
+  /* Styling for Watch Now and Genres */
+  .description-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  .eae{
+	padding: 0 15px;
+    
+}
+
+  .zaza li {
+    margin-bottom: 10px;
+  }
+  
+  .zaza a {
+    text-decoration: none;
+    color: #333;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+  }
+  
+  .zaza a img {
+    margin-right: 10px; /* Adjust spacing between icon and text */
+    width: 24px; /* Adjust the image width as needed */
+    height: 24px; /* Adjust the image height as needed */
+    object-fit: cover; /* Ensure the image maintains its aspect ratio */
+  }
+  
+  /* Hover effect when hovering over the links */
+  .zaza a:hover {
+    color: #ff6b6b; /* Change the color when hovering */
+  }

@@ -1,0 +1,31 @@
+.search-bar input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #3d3d3d;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #000;
+    background-color: #3d3d3d;
+  }
+.search-bar input:focus {
+  background-color: white;
+}
+  
+  .category-filter select {
+    padding: 8px;
+    margin-top: 5%;
+    border: 1px solid #3d3d3d;
+    border-radius: 5px;
+    background-color: #3d3d3d;
+    font-size: 14px;
+    color: #fff;
+  }
+  
+  /* Apply responsive styles */
+  @media (max-width: 768px) {
+    .search-bar input,
+    .category-filter select {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }

@@ -1,0 +1,66 @@
+.footer {
+	background: #0000006c;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	position: relative;
+    border-top: 2px solid yellow;
+}
+
+.page-up {
+	position: absolute;
+	left: 50%;
+	top: -25px;
+	margin-left: -25px;
+}
+
+.page-up button {
+	display: inline-block;
+	font-size: 36px;
+	color: #fe4604;
+	height: 50px;
+	width: 50px;
+	background: yellow;
+	line-height: 50px; /* Adjust line-height to match the button's height */
+	text-align: center;
+	border-radius: 50%;
+	border: 1px solid yellow;
+}
+
+.page-up button span {
+	position: relative;
+	right: 3.1%;
+}
+
+.footer__nav {
+	text-align: center;
+}
+
+.footer__nav ul li {
+	list-style: none;
+	display: inline-block;
+	position: relative;
+	margin-right: 40px;
+}
+
+.footer__nav ul li:last-child {
+	margin-right: 0;
+}
+.arr2{
+    padding-left: 4%;
+}
+.footer__nav ul li a {
+	font-size: 15px;
+	color: #b7b7b7;
+	display: block;
+	font-weight: 700;
+}
+
+.footer__copyright__text {
+	color: #b7b7b7;
+	margin-bottom: 0;
+	text-align: right;
+}
+
+.footer__copyright__text a {
+	color: #e53637;
+}
