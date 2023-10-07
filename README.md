@@ -20,7 +20,7 @@ To run the frontend locally, follow these steps:
 
 1. Clone the repository:
 
->git clone https://github.com/your-username/isekai-portal-frontend.git
+>git clone https://github.com/your-username/isekai-portal-frontend.git <br/>
 >cd isekai-portal-frontend
 
 3. Install dependencies:
