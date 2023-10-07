@@ -1,6 +1,6 @@
 # Isekai Portal - Frontend
 
-![Frontend Logo or Screenshot](./tk.jpg)
+![Frontend Logo or Screenshot](./redm.png)
 
 The frontend part of Isekai Portal is built using React.js. It provides the user interface for anime enthusiasts to browse and interact with the anime collection.
 
