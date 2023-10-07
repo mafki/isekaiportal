@@ -19,16 +19,18 @@ The frontend part of Isekai Portal is built using React.js. It provides the user
 To run the frontend locally, follow these steps:
 
 1. Clone the repository:
+   <>
    git clone https://github.com/your-username/isekai-portal-frontend.git
    cd isekai-portal-frontend
+   </>
 
-2. Install dependencies:
+3. Install dependencies:
   npm install
 
-3. Start the development server:
+4. Start the development server:
   npm start
 
-4. Access the application in your web browser at `http://localhost:3000`.
+5. Access the application in your web browser at `http://localhost:3000`.
 
 ## Contributing
 
